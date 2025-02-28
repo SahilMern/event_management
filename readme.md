@@ -3,7 +3,9 @@
 
 <br />
 
-### <p>Install packages outside the client and server using npm install, and add the .env file in both the client and server</p>
+<p>
+  Go to the client and server folders, then install the necessary packages using <code>npm install</code>. Also, add the <code>.env</code> file in both the client and server directories.
+</p>
 
 format
 ## .evn field required for frontend
