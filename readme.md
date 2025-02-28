@@ -3,6 +3,32 @@
 
 <br />
 
+### <p>Install packages outside the client and server using npm install, and add the .env file in both the client and server</p>
+
+format
+## .evn field required for frontend
+<p>Backend_APP_API_URL=""</p>
+
+<br />
+
+## .evn field required for Backend
+<p>
+
+JWT_SECRET=""<br />
+databaseurl=""<br />
+FrontendUrl=""<br />
+AES_KEY=5a1f3b8e9c7d2a4f6b0e1d2c3a4f5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2<br />
+AES_IV=3a4f5b6c7d8e9f0a1b2c3d4e5f6a7b8c<br />
+
+cloud_name=""
+<br />
+api_key=""
+<br />
+api_secret=""
+</p>
+
+
+
 <h2 align="">🖥️ Tech Stacks</h2>
 
 <h4 align="">Frontend:</h4>
